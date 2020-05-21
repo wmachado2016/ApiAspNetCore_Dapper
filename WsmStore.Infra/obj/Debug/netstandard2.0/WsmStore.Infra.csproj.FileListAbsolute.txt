@@ -1,0 +1,9 @@
+C:\treino1974\WsmStore.Infra\bin\Debug\netstandard2.0\WsmStore.Infra.deps.json
+C:\treino1974\WsmStore.Infra\bin\Debug\netstandard2.0\WsmStore.Infra.dll
+C:\treino1974\WsmStore.Infra\bin\Debug\netstandard2.0\WsmStore.Infra.pdb
+C:\treino1974\WsmStore.Infra\obj\Debug\netstandard2.0\WsmStore.Infra.csprojAssemblyReference.cache
+C:\treino1974\WsmStore.Infra\obj\Debug\netstandard2.0\WsmStore.Infra.csproj.CoreCompileInputs.cache
+C:\treino1974\WsmStore.Infra\obj\Debug\netstandard2.0\WsmStore.Infra.AssemblyInfoInputs.cache
+C:\treino1974\WsmStore.Infra\obj\Debug\netstandard2.0\WsmStore.Infra.AssemblyInfo.cs
+C:\treino1974\WsmStore.Infra\obj\Debug\netstandard2.0\WsmStore.Infra.dll
+C:\treino1974\WsmStore.Infra\obj\Debug\netstandard2.0\WsmStore.Infra.pdb

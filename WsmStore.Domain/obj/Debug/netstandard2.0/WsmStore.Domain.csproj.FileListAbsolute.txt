@@ -1,0 +1,9 @@
+C:\treino1974\WsmStore.Domain\bin\Debug\netstandard2.0\WsmStore.Domain.deps.json
+C:\treino1974\WsmStore.Domain\bin\Debug\netstandard2.0\WsmStore.Domain.dll
+C:\treino1974\WsmStore.Domain\bin\Debug\netstandard2.0\WsmStore.Domain.pdb
+C:\treino1974\WsmStore.Domain\obj\Debug\netstandard2.0\WsmStore.Domain.csprojAssemblyReference.cache
+C:\treino1974\WsmStore.Domain\obj\Debug\netstandard2.0\WsmStore.Domain.csproj.CoreCompileInputs.cache
+C:\treino1974\WsmStore.Domain\obj\Debug\netstandard2.0\WsmStore.Domain.AssemblyInfoInputs.cache
+C:\treino1974\WsmStore.Domain\obj\Debug\netstandard2.0\WsmStore.Domain.AssemblyInfo.cs
+C:\treino1974\WsmStore.Domain\obj\Debug\netstandard2.0\WsmStore.Domain.dll
+C:\treino1974\WsmStore.Domain\obj\Debug\netstandard2.0\WsmStore.Domain.pdb

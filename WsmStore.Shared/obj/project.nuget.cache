@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rob0+bSNMnDXtMOwzH6oc4IqBv0XQiyjxY2b0cllo9geCrdCeHn2579QA8lnYXCXAmfUMgcRfWu+lhmDl3zkEQ==",
+  "success": true,
+  "projectFilePath": "C:\\treino1974\\WsmStore.Shared\\WsmStore.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
